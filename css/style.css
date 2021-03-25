@@ -763,13 +763,13 @@ ul.year li {
     display: block;
 }
 ul.year li:nth-child(2){
-	    margin-top: 330px;
+	    margin-top: 250px;
 }
 ul.year li:nth-child(3){
-	    margin-top: 385px;
+	    margin-top: 410px;
 }
 ul.year li:nth-child(4){
-	    margin-top: 190px;
+	    margin-top: 160px;
 }
 ul.year li:nth-child(5){
 	    margin-top: 165px;
